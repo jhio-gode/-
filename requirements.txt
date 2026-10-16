@@ -1,0 +1,7 @@
+PySide2==5.15.2.1
+shiboken2==5.15.2.1
+openpyxl==3.1.5
+et_xmlfile==2.0.0
+python-docx==1.1.2
+lxml==5.3.2
+typing_extensions==4.13.2

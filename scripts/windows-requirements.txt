@@ -1,0 +1,9 @@
+# Frozen Windows 7 SP1 compatible runtime dependencies; do not upgrade Qt/Python
+# without rechecking the minimum Windows version on real Windows machines.
+PySide2==5.15.2.1
+shiboken2==5.15.2.1
+openpyxl==3.1.5
+python-docx==1.1.2
+lxml==5.3.2
+typing_extensions==4.13.2
+et_xmlfile==2.0.0
